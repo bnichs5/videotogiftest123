@@ -1,8 +1,15 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:4172
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:11
+#EXTINF:9.893678,
 https://latitude.droiduniverse.com/assets/15976_4172.mp4
+#EXTINF:10.743678,
 https://latitude.droiduniverse.com/assets/15976_4182.mp4
+#EXTINF:10.743678,
 https://latitude.droiduniverse.com/assets/15976_4192.mp4
+#EXTINF:10.743678,
 https://latitude.droiduniverse.com/assets/15976_4202.mp4
+#EXTINF:10.743678,
 https://latitude.droiduniverse.com/assets/15976_4212.mp4
